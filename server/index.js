@@ -17,6 +17,7 @@ app.use("/uploads", express.static(path.join(__dirname, "uploads")));
 
 
 
+
 app.use("/", userRouter);
 app.use("/adminlogin", adminRouter);
 
