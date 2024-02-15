@@ -1,0 +1,38 @@
+
+
+.home-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .user-welcome {
+    margin-top: 20px;
+  }
+  
+  .user-actions {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .home-link {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    margin-right: 20px;
+  }
+  
+  .home-button {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #f44336; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .home-button:hover {
+    background-color: #d32f2f; 
+  }
+  

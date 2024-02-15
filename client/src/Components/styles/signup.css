@@ -1,0 +1,84 @@
+.user-details-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.loginform {
+  height: auto;
+  margin: 20px auto;
+  max-width: 100%;
+  padding: 40px;
+  box-shadow: 10px;
+}
+
+.input {
+  width: 100%;
+  padding: 15px;
+  margin-right: 0;
+  margin-bottom: 30px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+.error-message {
+  color: #dc3545;
+  margin-bottom: 10px;
+}
+
+
+.login {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+
+}
+
+.linkstyle {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.linkstyle:hover {
+  color: rgb(176, 4, 4);
+}
+
+.pt-2 {
+  padding-top: 2px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-gray-400 {
+  color: #aaa;
+}
+
+.text-xs {
+  font-size: 12px;
+}
+
+.copyright-message {
+  color: #333;
+}
+
+.body {
+  margin: 10px;
+  padding: 0;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.success-message{
+  color: green;
+}
